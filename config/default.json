@@ -135,7 +135,7 @@
         "Directory": "./data/",
         "EnablePublicLink": false,
         "PublicLinkSalt": "",
-        "InitialFont": "luximbi.ttf",
+        "InitialFont": "Montserrat-Bold.ttf",
         "AmazonS3AccessKeyId": "",
         "AmazonS3SecretAccessKey": "",
         "AmazonS3Bucket": "",
